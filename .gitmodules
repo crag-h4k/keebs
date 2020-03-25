@@ -1,3 +1,6 @@
 [submodule "qmk_firmware"]
 	path = qmk_firmware
 	url = git@github.com:qmk/qmk_firmware.git
+[submodule "dm_r_track"]
+	path = dm_r_track
+	url = https://gitlab.com/keyboards1/dm_r_track.git
